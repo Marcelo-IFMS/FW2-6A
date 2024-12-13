@@ -13,7 +13,7 @@ export default function Pesportes({ produtos }) {
                 <Table striped bordered hover>
                     <thead>
                         <tr>
-                            <th>ID</th>
+                            <th>Id dos Produtos</th>
                             <th>Produto</th>
                             <th>Categoria</th>
                             <th>Descrição</th>
